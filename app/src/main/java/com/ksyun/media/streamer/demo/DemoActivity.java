@@ -16,6 +16,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 public class DemoActivity extends Activity {
+    
     private static final String TAG = "DemoActivity";
 
     @BindView(R.id.connectBT)
