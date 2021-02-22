@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">金山云融合Demo</string>
+    <string name="app_name">金山云融合Demo03</string>
     <string name="text_resolution">请选择合适的分辨率:</string>
     <string name="text_orientation">请选择显示方式:</string>
     <string name="text_frameRate">采集帧率:</string>

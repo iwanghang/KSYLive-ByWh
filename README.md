@@ -1,3 +1,6 @@
+# https://github.com/iwanghang/KSYLive-ByWh
+# rtmp://103.213.96.40/newLive/02220003
+
 # KSYLive_Android
 
 [ ![Download](https://api.bintray.com/packages/ksvc/ksylive/libksylive-java/images/download.svg) ](https://bintray.com/ksvc/ksylive/libksylive-java/_latestVersion)
